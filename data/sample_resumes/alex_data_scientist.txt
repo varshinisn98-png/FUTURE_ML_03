@@ -1,0 +1,32 @@
+Alex Rivera
+Senior Data Scientist & Machine Learning Specialist
+Email: alex.rivera@email.com | Phone: +1-555-019-2834 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/alexrivera-ml | GitHub: github.com/alexrivera-ml
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist with 5+ years of experience leveraging Machine Learning, Natural Language Processing (NLP), and Deep Learning to solve complex business problems. Expert in Python, PyTorch, TensorFlow, Scikit-learn, and SQL. Proven track record in developing predictive models, building end-to-end MLOps pipelines with MLflow and Docker, and deploying scalable APIs on AWS.
+
+WORK EXPERIENCE
+
+Lead Machine Learning Engineer | TechNova Solutions | 2022 - Present
+- Built and deployed NLP sentiment analysis and resume extraction pipeline using spaCy, NLTK, and BERT, boosting processing throughput by 45%.
+- Developed predictive classification models using Scikit-learn, XGBoost, and Random Forest for customer churn prediction.
+- Architected data pipelines using Python, Pandas, NumPy, SQL, and PySpark to process 10M+ daily records.
+- Deployed microservices using FastAPI, Docker, Kubernetes, and AWS Lambda; tracked experiments with MLflow.
+- Created interactive dashboards using Streamlit, Plotly, and Power BI for executive leadership.
+
+Data Scientist | Analytics Corp | 2020 - 2022
+- Applied statistical modeling, hypothesis testing, and time series analysis to forecast quarterly revenue.
+- Implemented deep learning computer vision models with PyTorch and OpenCV for automated document inspection.
+- Maintained CI/CD pipelines using Git and Jenkins.
+
+EDUCATION
+Master of Science in Computer Science (AI Track) | Stanford University, 2020
+Bachelor of Science in Statistics | UC Berkeley, 2018
+
+TECHNICAL SKILLS
+- Programming & Frameworks: Python, R, PyTorch, TensorFlow, Scikit-learn, spaCy, NLTK, OpenCV, Pandas, NumPy, FastAPI
+- Machine Learning & NLP: Deep Learning, NLP, BERT, Transformers, XGBoost, Predictive Modeling, Time Series, MLOps
+- Data & Cloud: SQL, PostgreSQL, MongoDB, PySpark, Docker, AWS, Git, CI/CD, MLflow
+- Visualization: Power BI, Streamlit, Matplotlib, Seaborn, Plotly
+- Soft Skills: Leadership, Communication, Problem Solving, Teamwork

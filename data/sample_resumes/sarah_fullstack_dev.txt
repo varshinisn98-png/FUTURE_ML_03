@@ -1,0 +1,27 @@
+Sarah Chen
+Full Stack Web Engineer
+Email: sarah.chen@email.com | Phone: +1-555-014-9988 | Location: Seattle, WA
+LinkedIn: linkedin.com/in/sarahchen-dev | Portfolio: sarahchen.dev
+
+SUMMARY
+Passionate Full Stack Developer with 4 years of experience building modern, high-performance web applications using JavaScript, TypeScript, React, Node.js, Express, and PostgreSQL. Experienced in REST API design, microservices architecture, and cloud deployment with Docker and AWS.
+
+EXPERIENCE
+
+Senior Web Developer | CloudScale Inc. | 2022 - Present
+- Designed and built responsive single-page frontend applications using React, React.js, TypeScript, HTML5, CSS3, and Tailwind CSS.
+- Developed scalable REST APIs and backend microservices using Node.js, Express, and TypeScript.
+- Managed database schemas, migrations, and indexing in PostgreSQL, MongoDB, and Redis.
+- Configured automated test suites with Jest and set up CI/CD pipelines via GitHub Actions and Docker containers on AWS.
+
+Frontend Software Engineer | WebCraft Agency | 2020 - 2022
+- Created interactive client portals using JavaScript, HTML, CSS, Bootstrap, and Next.js.
+- Integrated third-party GraphQL and RESTful APIs, improving page load speeds by 30%.
+- Worked closely with Agile/Scrum cross-functional teams.
+
+SKILLS
+- Frontend: JavaScript, TypeScript, React, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- Backend: Node.js, Express, REST API, GraphQL, Microservices, Python
+- Databases: PostgreSQL, MongoDB, Redis, SQL
+- DevOps & Tools: Git, GitHub, Docker, AWS, CI/CD, Jest
+- Soft Skills: Problem Solving, Teamwork, Agile, Communication

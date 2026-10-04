@@ -1,0 +1,21 @@
+Michael Vance
+DevOps & Cloud Infrastructure Engineer
+Email: michael.vance@email.com | Phone: +1-555-018-7733 | Location: Austin, TX
+
+SUMMARY
+DevOps Engineer with 6 years of expertise in automating cloud infrastructure, orchestrating Kubernetes clusters, building robust CI/CD pipelines, and ensuring 99.99% system availability across AWS and GCP platforms.
+
+PROFESSIONAL EXPERIENCE
+Senior DevOps Engineer | InfraNet Systems | 2021 - Present
+- Automated infrastructure provisioning using Terraform and Ansible across AWS and Google Cloud Platform (GCP).
+- Managed multi-region Kubernetes clusters with Docker and Helm for microservice orchestration.
+- Built end-to-end CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
+- Set up real-time monitoring and alerting with Prometheus, Grafana, and Nginx reverse proxies.
+- Authored automation scripts in Python, Bash, and Shell scripting.
+
+SKILLS
+- Cloud Platforms: AWS, GCP, Azure
+- DevOps & IaC: Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD
+- Scripting & OS: Python, Bash, Shell Scripting, Linux, Unix
+- Monitoring & Web: Prometheus, Grafana, Nginx
+- Tools: Git, GitLab, GitHub, Agile, Security

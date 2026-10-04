@@ -1,0 +1,47 @@
+{
+  "Data Science & Machine Learning": [
+    "python", "r", "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "scikit-learn", "sklearn", "tensorflow", "keras", "pytorch",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "xgboost", "lightgbm",
+    "catboost", "data analysis", "data mining", "feature engineering", "predictive modeling",
+    "time series analysis", "statistics", "statistical modeling", "hypothesis testing",
+    "neural networks", "transformers", "bert", "gpt", "llm", "spacy", "nltk", "opencv",
+    "reinforcement learning", "hyperparameter tuning", "cross-validation", "mlops",
+    "mlflow", "kubeflow", "model deployment", "random forest", "decision trees", "gradient boosting"
+  ],
+  "Web & Software Development": [
+    "javascript", "typescript", "html", "html5", "css", "css3", "react", "react.js",
+    "angular", "vue.js", "next.js", "node.js", "express", "django", "flask", "fastapi",
+    "spring boot", "java", "c#", ".net", "asp.net", "c++", "ruby", "ruby on rails",
+    "php", "laravel", "go", "golang", "rust", "rest api", "restful apis", "graphql",
+    "web sockets", "bootstrap", "tailwind css", "webpack", "babel", "microservices",
+    "object-oriented programming", "oop", "data structures", "algorithms", "design patterns"
+  ],
+  "Cloud & DevOps": [
+    "aws", "amazon web services", "azure", "gcp", "google cloud platform", "docker",
+    "kubernetes", "terraform", "ansible", "jenkins", "git", "github", "gitlab",
+    "ci/cd", "continuous integration", "continuous deployment", "bash", "shell scripting",
+    "powershell", "linux", "unix", "sysadmin", "serverless", "aws lambda", "cloudformation",
+    "prometheus", "grafana", "nginx", "apache"
+  ],
+  "Databases & Big Data": [
+    "sql", "mysql", "postgresql", "postgres", "sqlite", "oracle", "sql server",
+    "mongodb", "redis", "cassandra", "elasticsearch", "neo4j", "dynamodb",
+    "hadoop", "spark", "apache spark", "pyspark", "hive", "kafka", "snowflake",
+    "bigquery", "redshift", "data warehousing", "etl", "data pipelines"
+  ],
+  "Data Visualization & BI": [
+    "power bi", "tableau", "looker", "excel", "advanced excel", "d3.js", "qlik",
+    "business intelligence", "dashboard creation", "reporting", "kpi tracking"
+  ],
+  "Project Management & Methodology": [
+    "agile", "scrum", "kanban", "jira", "confluence", "trello", "sdlc",
+    "software development lifecycle", "product management", "stakeholder management",
+    "risk management", "version control"
+  ],
+  "Soft Skills & Communication": [
+    "communication", "teamwork", "leadership", "problem solving", "critical thinking",
+    "time management", "adaptability", "collaboration", "analytical skills",
+    "presentation skills", "conflict resolution", "mentorship"
+  ]
+}

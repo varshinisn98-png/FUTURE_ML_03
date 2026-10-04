@@ -1,0 +1,21 @@
+Job Title: Full Stack Software Engineer (React / Node.js)
+
+Job Overview:
+We are looking for a talented Full Stack Web Developer to join our core product engineering team. You will be responsible for developing scalable web applications, building intuitive frontend components, and designing robust backend REST APIs and microservices.
+
+Key Responsibilities:
+- Build responsive web interfaces using React, React.js, TypeScript, HTML5, CSS3, and Tailwind CSS.
+- Develop secure, scalable backend services using Node.js, Express, TypeScript, and REST APIs.
+- Design database schemas and write optimized queries for PostgreSQL, MongoDB, and Redis.
+- Collaborate with product managers, UI/UX designers, and QA engineers using Agile and Scrum.
+- Set up continuous integration and deployment pipelines using Docker, GitHub Actions, and AWS.
+
+Required Skills:
+- JavaScript, TypeScript, React, Node.js, Express, HTML, CSS
+- REST APIs, GraphQL, Microservices, PostgreSQL, MongoDB, Redis
+- Git, GitHub, Docker, AWS, CI/CD
+- Data Structures, Algorithms, Object-Oriented Programming (OOP)
+- Agile, Communication, Problem Solving
+
+Preferred Qualifications:
+- Experience with Next.js, WebSockets, unit testing (Jest/Cypress).

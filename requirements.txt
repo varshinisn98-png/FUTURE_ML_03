@@ -1,0 +1,13 @@
+# Resume Screening & Ranking System Requirements
+pandas>=1.5.0
+numpy>=1.22.0
+scikit-learn>=1.0.0
+spacy>=3.5.0
+nltk>=3.8.0
+streamlit>=1.20.0
+plotly>=5.10.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+pdfplumber>=0.9.0
+python-docx>=0.8.11
+pytest>=7.0.0

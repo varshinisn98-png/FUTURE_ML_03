@@ -1,0 +1,18 @@
+Emma Watson
+Junior Data Analyst
+Email: emma.watson@email.com | Phone: +1-555-012-3344 | Location: Chicago, IL
+
+SUMMARY
+Enthusiastic Junior Data Analyst with 1.5 years of experience in SQL, Excel, and Power BI. Proficient in basic Python programming, data cleaning, and creating dashboard visualizations. Seeking to transition into Machine Learning and Data Science roles.
+
+EXPERIENCE
+Junior Data Analyst | RetailInsights Inc. | 2023 - Present
+- Extracted and cleaned data using SQL queries and Microsoft Excel.
+- Built interactive sales reporting dashboards using Power BI and Tableau.
+- Performed preliminary exploratory data analysis in Python using Pandas and Matplotlib.
+
+TECHNICAL SKILLS
+- Programming: Python, SQL, HTML
+- Data Analysis: Pandas, Excel, Advanced Excel, Statistics
+- Visualization: Power BI, Tableau, Matplotlib
+- Soft Skills: Communication, Analytical Skills, Teamwork

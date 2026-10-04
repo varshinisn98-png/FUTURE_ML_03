@@ -1,0 +1,18 @@
+Job Title: Senior DevOps & Cloud Infrastructure Engineer
+
+Job Overview:
+We are seeking a Senior DevOps Engineer to automate and scale our cloud infrastructure, improve deployment reliability, and implement security best practices.
+
+Key Responsibilities:
+- Manage cloud infrastructure on AWS and GCP using Terraform and Ansible.
+- Build and optimize CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
+- Orchestrate containerized microservices using Docker and Kubernetes.
+- Implement system monitoring, logging, and alerting using Prometheus, Grafana, and ELK stack.
+- Write automation scripts in Python, Bash, and Shell scripting.
+
+Required Skills:
+- AWS, Azure, GCP, Cloud Computing
+- Docker, Kubernetes, Terraform, Ansible, Jenkins
+- CI/CD, Git, Linux, Bash, Shell Scripting, Python
+- Prometheus, Grafana, Nginx, Security, Networking
+- Agile, Problem Solving, Leadership
